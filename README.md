@@ -1,6 +1,7 @@
 # Relational-Database-Pacmann-Penjualan-Mobil-Bekas-
 # Relational Database & SQL Project
 Relational Database, Sekolah Engineering, Pacmann
+
 KELAS SOFTWARE ENGINEERING - ARDITA DWI SETYONUGROHO
 ## Latar Belakang
 Dalam project ini anda diberikan tugas untuk membangun relational database untuk sebuah website yang menawarkan penjualan mobil bekas. Gambaran umum tentang project ini adalah siapa saja dapat menawarkan produknya (mobil bekas) dalam bentuk iklan dan calon pembeli dapat melakukan pencarian berdasarkan beberapa kategori. 
