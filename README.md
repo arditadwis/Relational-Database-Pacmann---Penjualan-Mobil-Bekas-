@@ -283,3 +283,4 @@ b. Contoh Kasus Analytical query :
 
 ![analyctical query 5](https://raw.githubusercontent.com/arditadwis/Relational-Database-Pacmann---Penjualan-Mobil-Bekas-/main/Analytical%20Query%205.png)
 
+link github [https://github.com/arditadwis/Relational-Database-Pacmann---Penjualan-Mobil-Bekas-]
